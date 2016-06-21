@@ -21,6 +21,9 @@
                                 <rect key="frame" x="276" y="285" width="49" height="30"/>
                                 <color key="backgroundColor" red="0.5497649593619558" green="1" blue="0.32390752298186798" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="Record"/>
+                                <connections>
+                                    <action selector="recordButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mUQ-ZR-e1j"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
